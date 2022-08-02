@@ -1,10 +1,10 @@
 Column # ,Variable,Instrument,
-VarName1,Timestamp,Fecha y hora,Símbolos
+VarName1,Timestamp,Fecha y hora,SÃ­mbolos
 VarName2,Ch1_Anem_100.00m_NW_Avg_m/s,Wind speed 100 m (sensor 1),AVG: Average (promedio)
-VarName3,Ch1_Anem_100.00m_NW_SD_m/s,,SD: Standard deviation (desviación estandar)
+VarName3,Ch1_Anem_100.00m_NW_SD_m/s,,SD: Standard deviation (desviaciÃ³n estandar)
 VarName4,Ch1_Anem_100.00m_NW_Min_m/s,,Min: Minimum
 VarName5,Ch1_Anem_100.00m_NW_Max_m/s,,Max: Maximum
-VarName6,Ch1_Anem_100.00m_NW_Gust_m/s,,Gust: ráfaga máxima
+VarName6,Ch1_Anem_100.00m_NW_Gust_m/s,,Gust: rÃ¡faga mÃ¡xima
 VarName7,Ch2_Anem_100.00m_SE_Avg_m/s,Wind speed 100 m (sensor 2),
 VarName8,Ch2_Anem_100.00m_SE_SD_m/s,,
 VarName9,Ch2_Anem_100.00m_SE_Min_m/s,,
@@ -33,7 +33,7 @@ VarName31,Ch6_Anem_40.00m_NW_Gust_m/s,,
 VarName32,Ch13_Vane_57.00m_NW_Avg_Deg,Wind direction 60 m,
 VarName33,Ch13_Vane_57.00m_NW_SD_Deg,,
 VarName34,Ch13_Vane_57.00m_NW_GustDir_Deg,,
-VarName35,Ch14_Analog_21.00m_N_Avg_hPa,Presión ,
+VarName35,Ch14_Analog_21.00m_N_Avg_hPa,PresiÃ³n ,
 VarName36,Ch14_Analog_21.00m_N_SD_hPa,,
 VarName37,Ch14_Analog_21.00m_N_Min_hPa,,
 VarName38,Ch14_Analog_21.00m_N_Max_hPa,,
@@ -49,7 +49,7 @@ VarName47,Ch18_Analog_21.00m_N_Avg_C,Temperature,
 VarName48,Ch18_Analog_21.00m_N_SD_C,,
 VarName49,Ch18_Analog_21.00m_N_Min_C,,
 VarName50,Ch18_Analog_21.00m_N_Max_C,,
-VarName51,Ch19_Analog_0.00m_N_Avg_,Canal vacío,
+VarName51,Ch19_Analog_0.00m_N_Avg_,Canal vacÃ­o,
 VarName52,Ch19_Analog_0.00m_N_SD_,,
 VarName53,Ch19_Analog_0.00m_N_Min_,,
 VarName54,Ch19_Analog_0.00m_N_Max_,,
