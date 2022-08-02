@@ -1,0 +1,61 @@
+Column # ;Variable;Instrument;
+VarName1;Timestamp;Fecha y hora;Simbolos
+VarName2;Ch1_Anem_100.00m_NW_Avg_m/s;Wind speed 100 m (sensor 1);AVG: Average (promedio)
+VarName3;Ch1_Anem_100.00m_NW_SD_m/s;;SD: Standard deviation (desviacion estandar)
+VarName4;Ch1_Anem_100.00m_NW_Min_m/s;;Min: Minimum
+VarName5;Ch1_Anem_100.00m_NW_Max_m/s;;Max: Maximum
+VarName6;Ch1_Anem_100.00m_NW_Gust_m/s;;Gust: rafaga maxima
+VarName7;Ch2_Anem_100.00m_SE_Avg_m/s;Wind speed 100 m (sensor 2);
+VarName8;Ch2_Anem_100.00m_SE_SD_m/s;;
+VarName9;Ch2_Anem_100.00m_SE_Min_m/s;;
+VarName10;Ch2_Anem_100.00m_SE_Max_m/s;;
+VarName11;Ch2_Anem_100.00m_SE_Gust_m/s;;
+VarName12;Ch3_Anem_80.00m_NW_Avg_m/s;Wind speed 80 m (sensor 1);
+VarName13;Ch3_Anem_80.00m_NW_SD_m/s;;
+VarName14;Ch3_Anem_80.00m_NW_Min_m/s;;
+VarName15;Ch3_Anem_80.00m_NW_Max_m/s;;
+VarName16;Ch3_Anem_80.00m_NW_Gust_m/s;;
+VarName17;Ch4_Anem_80.00m_SE_Avg_m/s;Wind speed 80 m (sensor 2);
+VarName18;Ch4_Anem_80.00m_SE_SD_m/s;;
+VarName19;Ch4_Anem_80.00m_SE_Min_m/s;;
+VarName20;Ch4_Anem_80.00m_SE_Max_m/s;;
+VarName21;Ch4_Anem_80.00m_SE_Gust_m/s;;
+VarName22;Ch5_Anem_60.00m_NW_Avg_m/s;Wind speed 60 m;
+VarName23;Ch5_Anem_60.00m_NW_SD_m/s;;
+VarName24;Ch5_Anem_60.00m_NW_Min_m/s;;
+VarName25;Ch5_Anem_60.00m_NW_Max_m/s;;
+VarName26;Ch5_Anem_60.00m_NW_Gust_m/s;;
+VarName27;Ch6_Anem_40.00m_NW_Avg_m/s;Wind speed 40 m;
+VarName28;Ch6_Anem_40.00m_NW_SD_m/s;;
+VarName29;Ch6_Anem_40.00m_NW_Min_m/s;;
+VarName30;Ch6_Anem_40.00m_NW_Max_m/s;;
+VarName31;Ch6_Anem_40.00m_NW_Gust_m/s;;
+VarName32;Ch13_Vane_57.00m_NW_Avg_Deg;Wind direction 60 m;
+VarName33;Ch13_Vane_57.00m_NW_SD_Deg;;
+VarName34;Ch13_Vane_57.00m_NW_GustDir_Deg;;
+VarName35;Ch14_Analog_21.00m_N_Avg_hPa;Presion ;
+VarName36;Ch14_Analog_21.00m_N_SD_hPa;;
+VarName37;Ch14_Analog_21.00m_N_Min_hPa;;
+VarName38;Ch14_Analog_21.00m_N_Max_hPa;;
+VarName39;Ch16_Analog_100.00m_N_Avg_%;Humedad;
+VarName40;Ch16_Analog_100.00m_N_SD_%;;
+VarName41;Ch16_Analog_100.00m_N_Min_%;;
+VarName42;Ch16_Analog_100.00m_N_Max_%;;
+VarName43;Ch17_Analog_100.00m_N_Avg_C;Temperature;
+VarName44;Ch17_Analog_100.00m_N_SD_C;;
+VarName45;Ch17_Analog_100.00m_N_Min_C;;
+VarName46;Ch17_Analog_100.00m_N_Max_C;;
+VarName47;Ch18_Analog_21.00m_N_Avg_C;Temperature;
+VarName48;Ch18_Analog_21.00m_N_SD_C;;
+VarName49;Ch18_Analog_21.00m_N_Min_C;;
+VarName50;Ch18_Analog_21.00m_N_Max_C;;
+VarName51;Ch19_Analog_0.00m_N_Avg_;Canal vacio;
+VarName52;Ch19_Analog_0.00m_N_SD_;;
+VarName53;Ch19_Analog_0.00m_N_Min_;;
+VarName54;Ch19_Analog_0.00m_N_Max_;;
+VarName55;Ch20_Vane_97.00m_NW_Avg_Deg;Wind direction 100 m;
+VarName56;Ch20_Vane_97.00m_NW_SD_Deg;;
+VarName57;Ch20_Vane_97.00m_NW_GustDir_Deg;;
+VarName58;Ch21_Vane_77.00m_NW_Avg_Deg;Wind direction 80 m;
+VarName59;Ch21_Vane_77.00m_NW_SD_Deg;;
+VarName60;Ch21_Vane_77.00m_NW_GustDir_Deg;;
